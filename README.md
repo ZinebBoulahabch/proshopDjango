@@ -1,4 +1,4 @@
-# Cahier des Charges - BoutiquePRO
+# Cahier des Charges - ProShop
 
 ## 1. Contexte et Définition du Projet
 
@@ -89,8 +89,8 @@ Développer une plateforme e-commerce complète permettant aux commerçants de g
 
 1. Cloner le repository
 ```bash
-git clone https://github.com/votre-organisation/boutiquepro.git
-cd boutiquepro
+git clone https://github.com/votre-organisation/proshopDjango.git
+cd proshopDjango
 ```
 
 2. Configuration de l'environnement
